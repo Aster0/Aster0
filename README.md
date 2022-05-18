@@ -15,7 +15,7 @@
 ## 🥶 MY ACHIEVEMENTS 
 
 (Best from TOP) <br>
-🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WSS 2021)** <br>
+🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WorldSkills Singapore 2021)** <br>
 🎉 Dec 2020 - **TP Scholarship** <br>
 🎉 Jan 2020 - **Lee Kuan Yew Technology Award** <br>
 🎉 Sep 2021 - **UiPath Student Champion** <br>
