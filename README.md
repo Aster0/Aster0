@@ -24,4 +24,4 @@ However.. I am starting to dedicate to Github! Here are my statistics for the ye
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aster0&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster0&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster0&theme=radical)
