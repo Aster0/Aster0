@@ -1,3 +1,6 @@
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aster0&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+
 💬 Hey there! I am Astero, a very passionate developer that has quite a few prestigious awards on my hand! 
 <br>
 😁 View more about me here in my personal portfolio website! - https://astero.me
@@ -11,4 +14,7 @@
 <br>
 
 However.. I am starting to dedicate to Github! Here are my statistics for the year:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aster0&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster0&theme=radical)
