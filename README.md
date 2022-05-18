@@ -17,11 +17,11 @@ My boring all-time statistics (might not be very high, but I'm adjusting to Gith
 
 _boohoo past me for using GitLab instead 😔_
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aster0&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aster0&date_format=M%20j%5B%2C%20Y%5D)
 
 
 However.. I am starting to dedicate to Github! Here are my statistics for the year:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aster0&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aster0&show_icons=true&count_private=true&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster0&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster0)
