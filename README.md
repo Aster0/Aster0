@@ -13,7 +13,7 @@
 <br>
 
 
-My boring all-time statistics (might not be very high, but I'm adjusting to Github slowly but surely! 😁) <br>
+My boring all-time statistics (might not be very high, but I'm adjusting to Github slowly but surely!)  <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aster0&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 
