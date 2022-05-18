@@ -6,4 +6,7 @@
 
 <img align="right" width="300" height="300" src="https://i.imgur.com/Q0CsYvz.png0">
 
+
+
+However.. I am starting to dedicate to Github! Here are my statistics for the year:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aster0&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
