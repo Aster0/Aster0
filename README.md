@@ -15,12 +15,12 @@
 ## 🥶 MY ACHIEVEMENTS 
 
 (Best from TOP)
-🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WSS 2021)**
-🎉 Dec 2020 - **TP Scholarship**
-🎉 Jan 2020 - **Lee Kuan Yew Technology Award**
-🎉 Sep 2021 - **UiPath Student Champion**
-🎉 Jan 2022 - **Featured in Youthopia's News Article**
-🎉 Apr 2022 - **Featured in Channel News Asia**
+🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WSS 2021)** <br>
+🎉 Dec 2020 - **TP Scholarship** <br>
+🎉 Jan 2020 - **Lee Kuan Yew Technology Award** <br>
+🎉 Sep 2021 - **UiPath Student Champion** <br>
+🎉 Jan 2022 - **Featured in Youthopia's News Article** <br>
+🎉 Apr 2022 - **Featured in Channel News Asia** <br>
 
 
 
