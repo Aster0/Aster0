@@ -1,4 +1,4 @@
-
+## 🥶 ABOUT-ME
 
 💬 Hey there! I am Astero, a very passionate developer that has quite a few prestigious awards on my hand! 
 <br>
@@ -12,6 +12,24 @@
 <hr>
 <br>
 
+## 🥶 MY ACHIEVEMENTS 
+
+(Best from TOP)
+🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WSS 2021)**
+🎉 Dec 2020 - **TP Scholarship**
+🎉 Jan 2020 - **Lee Kuan Yew Technology Award**
+🎉 Sep 2021 - **UiPath Student Champion**
+🎉 Jan 2022 - **Featured in Youthopia's News Article**
+🎉 Apr 2022 - **Featured in Channel News Asia**
+
+
+
+<br>
+<hr>
+<br>
+
+
+## 🥶 MY BORING STATISTICS 
 
 My boring all-time statistics (might not be very high, but I'm adjusting to Github!)
 
