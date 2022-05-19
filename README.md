@@ -24,12 +24,19 @@
 (Best from TOP) <br>
 
 ![Achievements](https://img.shields.io/badge/Oct_2021-Mobile_Applications_Development_(Gold_Medal,_WorldSkills_SG_2021)-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
-🎉 Oct 2021 - **Mobile Applications Development - Gold Medal (WorldSkills SG 2021)** <br>
-🎉 Dec 2020 - **TP Scholarship** <br>
-🎉 Jan 2020 - **Lee Kuan Yew Technology Award** <br>
-🎉 Sep 2021 - **UiPath Student Champion** <br>
-🎉 Jan 2022 - **Featured in Youthopia's News Article** <br>
-🎉 Apr 2022 - **Featured in Channel News Asia** <br>
+
+![Achievements](https://img.shields.io/badge/Oct_2021-TP_Scholarship-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
+![Achievements](https://img.shields.io/badge/Jan_2020-Lee_Kuan_Yew_Technology_Award-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
+![Achievements](https://img.shields.io/badge/Sep_2021-UiPath_Student_Champion-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
+![Achievements](https://img.shields.io/badge/Jan_2022-Featured_in_Youthopia's_News_Article-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
+![Achievements](https://img.shields.io/badge/Jan_2020-Lee_Kuan_Yew_Technology_Award-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
+![Achievements](https://img.shields.io/badge/Apr_2022-Featured_in_Channel_News_Asia-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+
 
 
 
