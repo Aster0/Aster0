@@ -1,7 +1,7 @@
 
 <br>
 
-## 🥶 ABOUT-ME
+## 😊 ABOUT-ME
 
 💬 Hey there! I am Astero, a very passionate developer that has quite a few prestigious awards on my hand! 
 <br>
@@ -19,7 +19,7 @@
 <hr>
 <br>
 
-## 🥶 MY ACHIEVEMENTS 
+## 🎉 MY ACHIEVEMENTS 
 
 (Best from TOP) <br>
 
