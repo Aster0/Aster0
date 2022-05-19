@@ -7,7 +7,7 @@
 <br>
 😁 View more about me here in my social medias! <br>
 
-[![MY - Website](https://img.shields.io/badge/MY-Website-orange?style=for-the-badge&logo=data:https://astero.me/images/logo1.png;base64)](https://astero.me/)
+[![MY - Website](https://img.shields.io/badge/MY-Website-orange?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://astero.me/)
 [![MY - LinkedIn](https://img.shields.io/badge/MY-LinkedIn-orange?style=for-the-badge)](/docs/ "Go to project documentation")
 <br>
 
