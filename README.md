@@ -23,7 +23,7 @@
 
 (Best from TOP) 
 
-![Achievements](https://img.shields.io/badge/Oct_2021-Mobile_App_Development_(Gold_Medal,_WorldSkills_SG)-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
+![Achievements](https://img.shields.io/badge/Oct_2021-Mobile_Development_(Gold_Medal,_WorldSkills_SG)-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
 
 ![Achievements](https://img.shields.io/badge/Oct_2021-TP_Scholarship-orange?style=for-the-badge&logo=Deezer&logoColor=white) <br>
 
