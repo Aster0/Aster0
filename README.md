@@ -8,7 +8,7 @@
 😁 View more about me here in my social medias! <br>
 
 [![MY - Website](https://img.shields.io/badge/MY-Website-orange?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://astero.me/ "Visit my Portfolio Website")
-[![MY - LinkedIn](https://img.shields.io/badge/MY-LinkedIn-orange?style=for-the-badge&logo=LinkedIn&logoColor=white)](/docs/ "Go to project documentation")
+[![MY - LinkedIn](https://img.shields.io/badge/MY-LinkedIn-orange?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adenkoh/ "Visit my LinkedIn Profile")
 <br>
 
 *Do note that I used to use Gitlab, so not all my respository on Github are the most updated.
