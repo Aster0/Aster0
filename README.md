@@ -1,3 +1,7 @@
+[![MY - Website](https://img.shields.io/badge/MY-Website-orange?style=for-the-badge)]([/docs/ "Go to project documentation"](https://astero.me/))
+[![MY - LinkedIn](https://img.shields.io/badge/MY-LinkedIn-orange?style=for-the-badge)](/docs/ "Go to project documentation")
+<br>
+
 ## 🥶 ABOUT-ME
 
 💬 Hey there! I am Astero, a very passionate developer that has quite a few prestigious awards on my hand! 
